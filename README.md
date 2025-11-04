@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fábio Rocha</h1>
 <h3 align="center">Computer Networks and Systems Engineering</h3>
-<h3 align="cenetr"> Cybersecurity</h3>
+<h3 align="center"> Cybersecurity</h3>
 
 
 - 🌱 I’m currently learning **programming and cybersecurity**
