@@ -11,6 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/fabiorocha2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fabiorocha2004" height="30" width="40" /></a>
 </p>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4229300" style='border:none;'></iframe>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabi0290&show_icons=true&locale=en&layout=compact" alt="fabi0290" /></p>
 
